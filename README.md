@@ -1,6 +1,6 @@
 # Football League Project
 
-![image](https://github.com/MuhammadAhmed3092/Football-Leagues-Analysis-using-EDA/assets/119106831/82b1be6d-82f4-4311-9b9a-303b1d94acb5)
+![Football analysis picture](https://github.com/MuhammadAhmed3092/Football-Leagues-Analysis-using-EDA/assets/119106831/00459721-2d8d-4fd5-9c44-7d53d7df96ea)
 
 
 This project focuses on analyzing data from over 70 football leagues spanning from 2019 to 2022. The goal of the project is to perform exploratory data analysis (EDA) to gain insights into various aspects of football leagues. The analysis utilizes popular Python libraries such as pandas, numpy, matplotlib, seaborn to process and visualize the data. The project includes the following key components:
