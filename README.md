@@ -5,7 +5,7 @@
 
 This project focuses on analyzing data from over 70 football leagues spanning from 2019 to 2022. The goal of the project is to perform exploratory data analysis (EDA) to gain insights into various aspects of football leagues. The analysis utilizes popular Python libraries such as pandas, numpy, matplotlib, seaborn to process and visualize the data. The project includes the following key components:
 
-## Table of Contents
+### Table of Contents
 
 - [Correlation Heatmap](#correlation-heatmap)
 - [Data Relation Analysis](#data-relation-analysis)
