@@ -40,8 +40,6 @@ To run the project and reproduce the analysis, follow these steps:
 4. Execute the code provided in the notebook or script file to perform the EDA and generate the visualizations.
 5. Explore the generated visualizations and analyze the insights derived from the football league dataset.
 
-Feel free to customize the code or add additional analyses as per your requirements and preferences.
-
 ## Contributors
 
 - [Muhammad Ahmed](https://github.com/MuhammadAhmed3092)
