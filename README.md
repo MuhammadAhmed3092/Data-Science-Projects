@@ -26,9 +26,9 @@ The distribution analysis aims to uncover the distribution patterns of specific 
 
 ## Acknowledgements
 
-This project acknowledges the following resources and tools:
+This project acknowledges the following resources:
 
-- Kaggle Dataset: The football league data used in this project was obtained from Kaggle. The dataset(s) used provided a valuable collection of information on multiple leagues, including match results, team statistics, and more.
+- Kaggle Dataset: The football league data used in this project was obtained from Kaggle. The dataset(s) used provided a valuable collection of information on multiple leagues, including match results, team statistics, and more. Here is the link for the dataset i used : https://www.kaggle.com/datasets/takidaki/70-football-leagues-data-2019-2023
 
 ## Usage
 
@@ -44,5 +44,5 @@ Feel free to customize the code or add additional analyses as per your requireme
 
 ## Contributors
 
-- [Your Name](https://github.com/MuhammadAhmed3092)
+- [Muhammad Ahmed](https://github.com/MuhammadAhmed3092)
 
